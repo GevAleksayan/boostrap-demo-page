@@ -1,0 +1,23 @@
+@media only screen and (max-width: 1024px) {
+    .carousel-caption-custom {
+        bottom: 15% !important;
+    }
+
+    .carousel-caption-custom>h1 {
+        font-size: 6vw;
+        padding-bottom: 10px !important;
+        margin-bottom: 10px !important;
+    }
+
+    .carousel-caption-custom>h5 {
+        padding-top: 10px !important;
+        padding-bottom: 10px !important;
+        font-weight: 300;
+    }
+}
+
+@media only screen and (max-width: 375px) {
+    .contacts>p {
+        font-size: 14px;
+    }
+}

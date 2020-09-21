@@ -1,0 +1,51 @@
+.nav-item-border-top {
+    border-top: 2px solid #007bff;
+}
+
+.on-hover>a {
+    border-top: 2px solid transparent;
+}
+
+.on-hover>a:hover {
+    color: #007bff !important;
+    border-top: 2px solid #007bff;
+}
+
+.triangle {
+    width: 15px;
+    height: 15px;
+}
+
+.carousel-caption-custom {
+    bottom: 20% !important;
+}
+
+.carousel-caption-custom>h1 {
+    font-size: 5vw;
+}
+
+.no-outline {
+    outline: none;
+    box-shadow:none !important;
+}
+
+.indicator {
+    width: 10px !important;
+    height: 10px !important;
+}
+
+.underline-width {
+    width: 30px;
+}
+
+.footer-border-top {
+    border-top: 4px solid #007bff;
+}
+
+.bg-black {
+    background-color: #000;
+}
+
+.media>a {
+    margin: 0 3px;
+}
